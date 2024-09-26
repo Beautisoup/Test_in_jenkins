@@ -1,4 +1,5 @@
 import pytest
+import allure_pytest
 
 
 def test_addition():
