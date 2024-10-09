@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2120","test_login[user0]","","Thu Sep 26 14:46:43 CST 2024","passed","Thu Sep 26 14:46:45 CST 2024","TestUserController","test_user_controller","",""
+"","2251","test_login[user1]","","Thu Sep 26 14:46:45 CST 2024","passed","Thu Sep 26 14:46:48 CST 2024","TestUserController","test_user_controller","",""
+"","2044","test_login[user2]","","Thu Sep 26 14:46:48 CST 2024","passed","Thu Sep 26 14:46:50 CST 2024","TestUserController","test_user_controller","",""

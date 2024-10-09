@@ -36,17 +36,7 @@ class TestUserController:
         the_json = response.json()
         assert the_json['code'] == 0,the_json['msg']=='login success'
 
-    # @pytest.mark.parametrize('user', user_list)
-    # def test_register(self,user):
-    #     url = urljoin(base_url, '/user/register')
-    #     username= user.get('username')
-    #     password= user.get('password')
-    #     data = {
-    #         'username': username,
-    #         'password': password
-    #     }
-    #     response = requests.post(url, json=data)
-    #     print(response.json())
+
 
     '''
      pytest -sv test_user_controller.py --alluredir=allure_data
